@@ -1,0 +1,15 @@
+Index: Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Main.java b/Main.java
+new file mode 100644
+--- /dev/null	(date 1742360578816)
++++ b/Main.java	(date 1742360578816)
+@@ -0,0 +1,5 @@
++public class Main {
++    public static void main(String[] args) {
++        System.out.println("Изменение в новой ветку dev");
++    }
++}
